@@ -23,10 +23,13 @@ p3 {
 }
 
 h1 {
-	font-family: Helvetica, Times New Roman, serif;
-	font-size: 50%;
-	color: white;
-}
+	font-family: 'Space Grotesk', sans-serif;
+	font-size: 14em;
+	line-height: 80%;
+	padding:0;
+	color:#ffffff;
+	text-transform:uppercase;
+	}
 
 h2 {
 	font-family: Helvetica, Times New Roman, serif;
