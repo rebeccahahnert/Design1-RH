@@ -1,6 +1,6 @@
 body {
 	margin:0;
-	background color: #787878;
+	background color: black;
 	color: white;
 }
 
@@ -128,3 +128,11 @@ h4 {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 5;
+}
+
