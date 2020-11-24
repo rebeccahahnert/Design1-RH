@@ -5,7 +5,6 @@ body {
 	z-index: 5;
 }
 
-
 p1 {
 	font-family: Verdana, Times New Roman, serif;
 	font-size: 0.5 em;
@@ -100,7 +99,7 @@ h4 {
   color: white;
 }
 
-img {
+.front_image {
   position: absolute;
   left: 0px;
   top: 0px;
