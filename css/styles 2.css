@@ -24,7 +24,7 @@ p3 {
 }
 
 h1 {
-	font-family: 'Space Grotesk', sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size: 10em;
 	line-height: 80%;
 	padding:0;
@@ -105,4 +105,3 @@ h4 {
   top: 0px;
   z-index: 5;
 }
-
