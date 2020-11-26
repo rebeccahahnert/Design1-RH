@@ -25,7 +25,7 @@ p3 {
 
 h1 {
 	font-family: Helvetica, sans-serif;
-	font-size: 10em;
+	font-size: 11.5em;
 	line-height: 80%;
 	padding:0;
 	color:#ffffff;
@@ -102,7 +102,7 @@ h4 {
 .front_image {
   pointer-events: none;
   position: absolute;
-  left: 800px;
+  left: 700px;
   top: 0px;
   z-index: 5;
 }
