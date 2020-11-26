@@ -2,6 +2,7 @@ body {
 	margin:0;
 	background color: black;
 	color: white;
+	height: 100%;
 }
 
 p1 {
@@ -101,7 +102,7 @@ h4 {
 .front_image {
   pointer-events: none;
   position: absolute;
-  left: 600px;
+  left: 800px;
   top: 0px;
   z-index: 5;
 }
