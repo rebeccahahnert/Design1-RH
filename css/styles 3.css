@@ -98,3 +98,11 @@ h4 {
   color: white;
 }
 
+.front_image {
+  pointer-events: none;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 5;
+}
+
