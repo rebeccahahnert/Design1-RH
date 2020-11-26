@@ -101,8 +101,9 @@ h4 {
 .front_image {
   pointer-events: none;
   position: absolute;
-  left: 0px;
+  left: 600px;
   top: 0px;
   z-index: 5;
 }
+
 
